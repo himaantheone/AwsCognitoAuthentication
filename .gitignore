@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AwsCognitoAuthentication/bin/Debug
+/AwsCognitoAuthentication/obj/Debug
+/AwsCognitoAuthentication/Properties
+/.vs/AwsCognitoAuthentication/v14/.suo
+/AwsCognitoAuthentication.suo
+/packages
